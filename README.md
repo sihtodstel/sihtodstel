@@ -18,7 +18,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=sihtodstel.sihtodstel)
 
 <br />
- :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+ :book: About Me
 
 Hey , I'm Rajat Olhan a self-taught developer .I have been persisetent towards Cybersecurity as i enjoy finding loopholes/vulnerabilities and patching them up. I try to be thorough as it keep my code complex yet elegant.
 
