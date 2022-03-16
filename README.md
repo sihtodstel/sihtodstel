@@ -2,9 +2,9 @@
 <a href="https://www.instagram.com/rajatolhan/">
   <img align="left" alt="Rajat's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
+<!-- <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Rajat's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
+</a> -->
 <a href="https://twitter.com/rajatolhan">
   <img align="left" alt="Rajat Olhan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
