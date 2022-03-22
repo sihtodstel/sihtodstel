@@ -20,12 +20,11 @@
 <br />
  :book: About Me
   <br>
-  </br>
-Hey , I'm Rajat Olhan a self-taught developer .I have been persisetent towards Cybersecurity as i enjoy finding loopholes/vulnerabilities and patching them up. I try to be thorough as it keep my code complex yet elegant.
+Hey , I'm Rajat Olhan a self-taught developer.I have been persisetent towards Cybersecurity as i enjoy finding loopholes/vulnerabilities and patching them up. I try to be thorough as it keep my code complex yet elegant.
 
 I like learning from open-source projects , it's a sea of ideas and knowledge. 
 
-- 🎓 Studying Master in Cybersecurity and Networks
+- 🎓 Pursuing Masters in Cybersecurity and Networks from UNH,CT 
 - 💼 any freelance work? do reach, [email](mailto:unhrajat@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
