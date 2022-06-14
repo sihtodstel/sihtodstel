@@ -26,7 +26,6 @@ ____    __    ____  _______  __        ______   ______   .___  ___.  _______
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sihtodstel.sihtodstel)
 
-<br />
  :book: About Me
   <br>
 Hey , I'm Rajat Olhan a self-taught developer.I have been persisetent towards Cybersecurity as i enjoy finding loopholes/vulnerabilities and patching them up. I try to be thorough as it keep my code complex yet elegant.
@@ -37,7 +36,7 @@ I like learning from open-source projects , it's a sea of ideas and knowledge.
 - 💼 any freelance work? do reach, [email](mailto:unhrajat@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-**languages and tools:**  
+**Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
