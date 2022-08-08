@@ -33,6 +33,8 @@ Hey , I'm Rajat Olhan a self-taught developer.I have been persisetent towards Cy
 I like learning from open-source projects , it's a sea of ideas and knowledge. 
 
 - 🎓 Pursuing Masters in Cybersecurity and Networks from UNH,CT 
+- 🥷 CTF Player for  <a href="https://ctftime.org/team/169082">CyberWolf</a>
+- 🧑‍💻 Content creator and developer for <a href="https://cyberheaven.eu">CyberHeaven</a>
 - 💼 any freelance work? do reach, [email](mailto:unhrajat@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
