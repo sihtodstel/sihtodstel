@@ -25,16 +25,18 @@ ____    __    ____  _______  __        ______   ______   .___  ___.  _______
 </a> -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sihtodstel.sihtodstel)
+![](https://vbr.wocr.tk/badge?page_id=sihtodstel.sihtodstel)
+
 
  :book: About Me
   <br>
-Hey , I'm Rajat Olhan a self-taught developer.I have been persisetent towards Cybersecurity as i enjoy finding loopholes/vulnerabilities and patching them up. I try to be thorough as it keep my code complex yet elegant.
+Hey, Myself Rajat Olhan a Cybersecurity Enthusiast specializing in Incident Response,Security Blue Team practices, and Purple Team practices, Risk Assessment and Management. Firm grasp of NIST, PCI, MITRE ATT&CK, ISO 27001 frameworks. Researcher for Quantum Computing, communication and cryptography, HTTP3, and Ransomware defense mechanisms.
 
 I like learning from open-source projects , it's a sea of ideas and knowledge. 
 
 - 🎓 Pursuing Masters in Cybersecurity and Networks from UNH,CT 
 - 🥷 CTF Player for  <a href="https://ctftime.org/team/169082">CyberWolf</a>
-- 🧑‍💻 Content creator and developer for <a href="https://cyberheaven.eu">CyberHeaven</a>
+- 🧑‍💻 Content creator and Pentester for <a href="https://cyberheaven.eu">CyberHeaven</a>
 - 💼 any freelance work? do reach, [email](mailto:unhrajat@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
